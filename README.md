@@ -16,17 +16,14 @@
 - GitHub
 - Visual Studio
 
-## 🎮 Projects
-
-### LuckySquad
-Unity 기반 3D 프로젝트
-
-### Digimon Super Rumble
-DirectX 11 기반 3D 턴제 게임
+### Algorithm
+- DFS / BFS
+- STL
+- FSM
 
 ## 📚 Currently Learning
 
 - Unity
 - Server / Network Programming
 - MediaPipe
-- Spine
+- DirectX
