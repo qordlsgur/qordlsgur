@@ -1,16 +1,32 @@
-## Hi there 👋
+# 안녕하세요 👋
+게임 클라이언트 개발자를 목표로 하고 있습니다.
 
-<!--
-**qordlsgur/qordlsgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
 
-Here are some ideas to get you started:
+### Language
+- C++
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Engine
+- Unity
+- DirectX 11
+
+### Tools
+- Git
+- GitHub
+- Visual Studio
+
+## 🎮 Projects
+
+### LuckySquad
+Unity 기반 3D 프로젝트
+
+### Digimon Super Rumble
+DirectX 11 기반 3D 턴제 게임
+
+## 📚 Currently Learning
+
+- Unity
+- Server / Network Programming
+- MediaPipe
+- Spine
